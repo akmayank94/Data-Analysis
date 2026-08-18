@@ -1,0 +1,301 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method,Customer Type,Sales Channel,Unit Cost,Total Cost,Profit
+10001,2024-01-01,Electronics,Samsung Galaxy S24,12,894.49,10733.88,North America,UPI,New,Mobile App,699.33,8391.96,2341.92
+10002,2024-01-02,Books,The Da Vinci Code,12,16.45,197.4,Australia,Debit Card,New,Mobile App,9.62,115.44,81.96
+10003,2024-01-03,Books,Atomic Habits,10,20.64,206.4,Asia,PayPal,Returning,Online,13.82,138.2,68.2
+10004,2024-01-04,Beauty Products,Neutrogena Skincare Set,13,91.17,1185.21,South America,PayPal,VIP,Mobile App,68.8,894.4,290.81
+10005,2024-01-05,Books,The Da Vinci Code,12,15.5,186.0,Asia,Credit Card,New,Store,10.48,125.76,60.24
+10006,2024-01-07,Beauty Products,The Ordinary Serum,12,26.16,313.92,Australia,PayPal,Returning,Online,16.69,200.28,113.64
+10007,2024-01-08,Home Appliances,Philips Air Fryer,2,129.67,259.34,Asia,UPI,New,Mobile App,79.26,158.52,100.82
+10008,2024-01-09,Clothing,Nike Air Max,11,147.18,1618.98,Asia,Bank Transfer,New,Online,114.02,1254.22,364.76
+10009,2024-01-10,Electronics,Sony WH-1000XM5,11,337.38,3711.18,Australia,Credit Card,Returning,Store,203.77,2241.47,1469.71
+10010,2024-01-11,Home Appliances,Philips Air Fryer,11,133.64,1470.04,Asia,Debit Card,New,Online,90.06,990.66,479.38
+10011,2024-01-13,Home Appliances,Philips Air Fryer,11,129.61,1425.71,North America,UPI,Returning,Store,91.07,1001.77,423.94
+10012,2024-01-14,Electronics,Samsung Galaxy S24,9,882.35,7941.15,Europe,Debit Card,New,Online,492.63,4433.67,3507.48
+10013,2024-01-15,Beauty Products,The Ordinary Serum,13,24.33,316.29,Australia,PayPal,New,Store,13.76,178.88,137.41
+10014,2024-01-16,Electronics,Samsung Galaxy S24,9,925.54,8329.86,Asia,Debit Card,Returning,Online,675.06,6075.54,2254.32
+10015,2024-01-18,Home Appliances,Dyson V11 Vacuum,1,479.49,479.49,South America,Debit Card,New,Store,357.24,357.24,122.25
+10016,2024-01-19,Beauty Products,The Ordinary Serum,3,25.48,76.44,North America,PayPal,New,Store,17.08,51.24,25.2
+10017,2024-01-20,Clothing,Nike Air Max,6,143.81,862.86,Europe,Bank Transfer,VIP,Store,83.68,502.08,360.78
+10018,2024-01-21,Home Appliances,Philips Air Fryer,4,136.09,544.36,Europe,UPI,New,Online,103.46,413.84,130.52
+10019,2024-01-22,Electronics,iPhone 14 Pro,2,1040.25,2080.5,South America,PayPal,New,Store,700.15,1400.3,680.2
+10020,2024-01-24,Clothing,Levi's 501 Jeans,3,72.49,217.47,Asia,UPI,New,Store,54.72,164.16,53.31
+10021,2024-01-25,Electronics,Samsung Galaxy S24,9,913.48,8221.32,South America,Debit Card,New,Online,523.24,4709.16,3512.16
+10022,2024-01-26,Electronics,Sony WH-1000XM5,5,337.55,1687.75,North America,Debit Card,New,Mobile App,195.08,975.4,712.35
+10023,2024-01-27,Beauty Products,The Ordinary Serum,9,24.61,221.49,Europe,Credit Card,VIP,Online,17.46,157.14,64.35
+10024,2024-01-29,Home Appliances,Philips Air Fryer,12,124.57,1494.84,South America,Debit Card,VIP,Store,84.88,1018.56,476.28
+10025,2024-01-30,Clothing,Levi's 501 Jeans,8,68.36,546.88,Asia,Debit Card,New,Online,43.72,349.76,197.12
+10026,2024-01-31,Home Appliances,Dyson V11 Vacuum,13,519.8,6757.4,Europe,Debit Card,New,Store,305.57,3972.41,2784.99
+10027,2024-02-01,Electronics,Samsung Galaxy S24,5,914.34,4571.7,Australia,UPI,New,Mobile App,682.36,3411.8,1159.9
+10028,2024-02-02,Beauty Products,The Ordinary Serum,4,23.83,95.32,Asia,PayPal,Returning,Mobile App,16.68,66.72,28.6
+10029,2024-02-04,Beauty Products,The Ordinary Serum,5,26.12,130.6,South America,Debit Card,New,Mobile App,16.42,82.1,48.5
+10030,2024-02-05,Electronics,Sony WH-1000XM5,3,334.06,1002.18,Australia,Bank Transfer,VIP,Store,222.98,668.94,333.24
+10031,2024-02-06,Beauty Products,Neutrogena Skincare Set,14,93.53,1309.42,Asia,PayPal,Returning,Store,64.54,903.56,405.86
+10032,2024-02-07,Home Appliances,Dyson V11 Vacuum,6,479.71,2878.26,Europe,PayPal,VIP,Online,360.57,2163.42,714.84
+10033,2024-02-09,Electronics,iPhone 14 Pro,2,1033.1,2066.2,South America,Credit Card,Returning,Mobile App,610.96,1221.92,844.28
+10034,2024-02-10,Electronics,iPhone 14 Pro,3,981.02,2943.06,Europe,Bank Transfer,Returning,Online,745.48,2236.44,706.62
+10035,2024-02-11,Beauty Products,The Ordinary Serum,1,24.31,24.31,North America,UPI,New,Store,14.24,14.24,10.07
+10036,2024-02-12,Beauty Products,The Ordinary Serum,11,25.19,277.09,Australia,Bank Transfer,Returning,Store,15.21,167.31,109.78
+10037,2024-02-13,Books,Atomic Habits,2,19.24,38.48,North America,PayPal,New,Online,15.4,30.8,7.68
+10038,2024-02-15,Clothing,Levi's 501 Jeans,10,73.18,731.8,Australia,Bank Transfer,New,Store,45.91,459.1,272.7
+10039,2024-02-16,Electronics,Samsung Galaxy S24,10,864.52,8645.2,South America,Debit Card,VIP,Store,508.24,5082.4,3562.8
+10040,2024-02-17,Electronics,Sony WH-1000XM5,14,360.64,5048.96,South America,UPI,New,Online,243.86,3414.04,1634.92
+10041,2024-02-18,Electronics,MacBook Air M2,13,1132.64,14724.32,Europe,Debit Card,Returning,Mobile App,694.1,9023.3,5701.02
+10042,2024-02-20,Books,Atomic Habits,10,19.82,198.2,Australia,Debit Card,Returning,Mobile App,12.9,129.0,69.2
+10043,2024-02-21,Electronics,MacBook Air M2,7,1072.25,7505.75,Australia,UPI,Returning,Online,658.25,4607.75,2898.0
+10044,2024-02-22,Beauty Products,Neutrogena Skincare Set,1,90.84,90.84,North America,Bank Transfer,New,Online,53.55,53.55,37.29
+10045,2024-02-23,Beauty Products,Neutrogena Skincare Set,14,86.98,1217.72,Asia,Credit Card,New,Online,54.53,763.42,454.3
+10046,2024-02-24,Books,The Da Vinci Code,1,15.47,15.47,Asia,Debit Card,Returning,Online,8.73,8.73,6.74
+10047,2024-02-26,Books,Atomic Habits,5,20.0,100.0,South America,Bank Transfer,New,Online,15.73,78.65,21.35
+10048,2024-02-27,Beauty Products,Neutrogena Skincare Set,4,87.73,350.92,Australia,Debit Card,New,Online,61.78,247.12,103.8
+10049,2024-02-28,Beauty Products,The Ordinary Serum,8,23.99,191.92,North America,Credit Card,VIP,Online,18.59,148.72,43.2
+10050,2024-02-29,Beauty Products,Neutrogena Skincare Set,13,93.61,1216.93,Europe,Bank Transfer,Returning,Store,76.24,991.12,225.81
+10051,2024-03-02,Clothing,Nike Air Max,12,144.51,1734.12,Europe,Debit Card,VIP,Online,100.4,1204.8,529.32
+10052,2024-03-03,Books,Atomic Habits,6,20.27,121.62,North America,Credit Card,Returning,Online,12.61,75.66,45.96
+10053,2024-03-04,Clothing,Nike Air Max,4,148.0,592.0,South America,PayPal,New,Store,96.04,384.16,207.84
+10054,2024-03-05,Electronics,Sony WH-1000XM5,5,365.7,1828.5,Australia,Debit Card,New,Store,291.61,1458.05,370.45
+10055,2024-03-06,Beauty Products,The Ordinary Serum,13,25.37,329.81,Asia,Debit Card,Returning,Online,19.46,252.98,76.83
+10056,2024-03-08,Electronics,Sony WH-1000XM5,12,339.57,4074.84,Asia,Bank Transfer,New,Store,250.47,3005.64,1069.2
+10057,2024-03-09,Clothing,Nike Air Max,2,153.38,306.76,Asia,Bank Transfer,New,Mobile App,87.86,175.72,131.04
+10058,2024-03-10,Electronics,Sony WH-1000XM5,13,353.27,4592.51,Australia,UPI,VIP,Online,268.95,3496.35,1096.16
+10059,2024-03-11,Books,The Da Vinci Code,9,15.34,138.06,North America,Credit Card,Returning,Store,10.99,98.91,39.15
+10060,2024-03-13,Home Appliances,Philips Air Fryer,7,130.28,911.96,Australia,UPI,Returning,Store,98.53,689.71,222.25
+10061,2024-03-14,Electronics,Samsung Galaxy S24,14,865.77,12120.78,South America,Credit Card,Returning,Online,503.55,7049.7,5071.08
+10062,2024-03-15,Beauty Products,The Ordinary Serum,12,25.42,305.04,South America,Bank Transfer,Returning,Online,16.27,195.24,109.8
+10063,2024-03-16,Books,Atomic Habits,6,19.62,117.72,Australia,Credit Card,VIP,Online,11.63,69.78,47.94
+10064,2024-03-17,Books,The Da Vinci Code,6,16.36,98.16,Australia,Bank Transfer,Returning,Online,11.44,68.64,29.52
+10065,2024-03-19,Electronics,Samsung Galaxy S24,6,943.79,5662.74,Australia,Bank Transfer,New,Mobile App,701.99,4211.94,1450.8
+10066,2024-03-20,Beauty Products,Neutrogena Skincare Set,10,86.59,865.9,North America,UPI,New,Online,61.38,613.8,252.1
+10067,2024-03-21,Books,The Da Vinci Code,13,15.66,203.58,Europe,Debit Card,New,Mobile App,10.55,137.15,66.43
+10068,2024-03-22,Books,The Da Vinci Code,12,15.37,184.44,North America,Bank Transfer,New,Mobile App,12.59,151.08,33.36
+10069,2024-03-24,Electronics,iPhone 14 Pro,2,1049.9,2099.8,North America,UPI,New,Mobile App,766.15,1532.3,567.5
+10070,2024-03-25,Beauty Products,Neutrogena Skincare Set,1,87.66,87.66,Australia,UPI,New,Mobile App,51.6,51.6,36.06
+10071,2024-03-26,Electronics,MacBook Air M2,10,1048.97,10489.7,North America,Credit Card,Returning,Mobile App,578.47,5784.7,4705.0
+10072,2024-03-27,Beauty Products,The Ordinary Serum,4,25.86,103.44,South America,Bank Transfer,VIP,Mobile App,14.62,58.48,44.96
+10073,2024-03-28,Beauty Products,Neutrogena Skincare Set,11,93.03,1023.33,Asia,PayPal,New,Store,52.18,573.98,449.35
+10074,2024-03-30,Clothing,Levi's 501 Jeans,12,70.9,850.8,Asia,Credit Card,Returning,Online,55.29,663.48,187.32
+10075,2024-03-31,Electronics,iPhone 14 Pro,5,1020.98,5104.9,South America,UPI,New,Store,831.75,4158.75,946.15
+10076,2024-04-01,Electronics,iPhone 14 Pro,1,1038.4,1038.4,Asia,Credit Card,New,Online,770.06,770.06,268.34
+10077,2024-04-02,Home Appliances,Dyson V11 Vacuum,15,497.92,7468.8,Europe,UPI,Returning,Online,379.27,5689.05,1779.75
+10078,2024-04-03,Electronics,Sony WH-1000XM5,15,343.04,5145.6,Asia,UPI,Returning,Mobile App,242.21,3633.15,1512.45
+10079,2024-04-05,Electronics,Samsung Galaxy S24,3,900.74,2702.22,Australia,Debit Card,New,Online,593.67,1781.01,921.21
+10080,2024-04-06,Beauty Products,The Ordinary Serum,5,24.5,122.5,South America,UPI,Returning,Online,16.31,81.55,40.95
+10081,2024-04-07,Electronics,Samsung Galaxy S24,7,874.58,6122.06,South America,PayPal,New,Online,619.94,4339.58,1782.48
+10082,2024-04-08,Home Appliances,Philips Air Fryer,8,126.42,1011.36,Europe,Debit Card,Returning,Store,89.07,712.56,298.8
+10083,2024-04-10,Clothing,Nike Air Max,10,147.23,1472.3,Europe,Debit Card,New,Store,112.28,1122.8,349.5
+10084,2024-04-11,Clothing,Levi's 501 Jeans,6,70.08,420.48,Asia,Bank Transfer,VIP,Store,52.48,314.88,105.6
+10085,2024-04-12,Books,The Da Vinci Code,8,16.47,131.76,Asia,Bank Transfer,Returning,Online,10.46,83.68,48.08
+10086,2024-04-13,Electronics,iPhone 14 Pro,2,1034.19,2068.38,North America,PayPal,New,Online,584.32,1168.64,899.74
+10087,2024-04-14,Books,The Da Vinci Code,5,16.38,81.9,Asia,Bank Transfer,VIP,Online,9.07,45.35,36.55
+10088,2024-04-16,Books,The Da Vinci Code,3,16.15,48.45,Asia,PayPal,VIP,Mobile App,9.4,28.2,20.25
+10089,2024-04-17,Home Appliances,Philips Air Fryer,12,127.53,1530.36,North America,UPI,New,Store,93.82,1125.84,404.52
+10090,2024-04-18,Home Appliances,Dyson V11 Vacuum,1,485.44,485.44,Asia,Credit Card,New,Mobile App,335.81,335.81,149.63
+10091,2024-04-19,Beauty Products,The Ordinary Serum,15,25.13,376.95,Australia,Bank Transfer,New,Online,19.51,292.65,84.3
+10092,2024-04-21,Beauty Products,Neutrogena Skincare Set,6,86.21,517.26,North America,Debit Card,Returning,Online,65.0,390.0,127.26
+10093,2024-04-22,Electronics,MacBook Air M2,3,1144.77,3434.31,South America,PayPal,New,Online,643.42,1930.26,1504.05
+10094,2024-04-23,Beauty Products,The Ordinary Serum,9,24.97,224.73,Europe,PayPal,Returning,Store,14.3,128.7,96.03
+10095,2024-04-24,Clothing,Levi's 501 Jeans,10,71.18,711.8,South America,Credit Card,New,Store,53.81,538.1,173.7
+10096,2024-04-25,Beauty Products,Neutrogena Skincare Set,6,93.09,558.54,Asia,UPI,VIP,Store,63.33,379.98,178.56
+10097,2024-04-27,Home Appliances,Philips Air Fryer,14,131.12,1835.68,Europe,PayPal,Returning,Store,102.22,1431.08,404.6
+10098,2024-04-28,Clothing,Levi's 501 Jeans,2,69.28,138.56,South America,UPI,New,Online,55.26,110.52,28.04
+10099,2024-04-29,Electronics,MacBook Air M2,3,1047.72,3143.16,South America,Debit Card,New,Store,838.61,2515.83,627.33
+10100,2024-04-30,Clothing,Levi's 501 Jeans,1,68.44,68.44,Asia,UPI,VIP,Store,50.63,50.63,17.81
+10101,2024-05-02,Beauty Products,Neutrogena Skincare Set,8,92.34,738.72,Asia,UPI,VIP,Mobile App,73.31,586.48,152.24
+10102,2024-05-03,Home Appliances,Philips Air Fryer,14,124.97,1749.58,Australia,Debit Card,Returning,Store,93.45,1308.3,441.28
+10103,2024-05-04,Home Appliances,Philips Air Fryer,15,136.29,2044.35,Australia,UPI,Returning,Online,85.57,1283.55,760.8
+10104,2024-05-05,Electronics,iPhone 14 Pro,2,954.09,1908.18,Australia,Debit Card,VIP,Online,725.0,1450.0,458.18
+10105,2024-05-06,Electronics,MacBook Air M2,15,1090.26,16353.9,South America,Credit Card,Returning,Mobile App,833.28,12499.2,3854.7
+10106,2024-05-08,Electronics,MacBook Air M2,14,1135.47,15896.58,North America,PayPal,New,Online,635.84,8901.76,6994.82
+10107,2024-05-09,Beauty Products,The Ordinary Serum,11,25.52,280.72,North America,Bank Transfer,Returning,Mobile App,19.37,213.07,67.65
+10108,2024-05-10,Home Appliances,Dyson V11 Vacuum,1,486.72,486.72,Europe,Bank Transfer,New,Store,349.42,349.42,137.3
+10109,2024-05-11,Electronics,MacBook Air M2,11,1048.25,11530.75,South America,Bank Transfer,Returning,Online,690.13,7591.43,3939.32
+10110,2024-05-13,Home Appliances,Dyson V11 Vacuum,13,492.39,6401.07,Australia,PayPal,Returning,Online,384.26,4995.38,1405.69
+10111,2024-05-14,Electronics,Samsung Galaxy S24,5,934.78,4673.9,South America,Credit Card,New,Store,561.48,2807.4,1866.5
+10112,2024-05-15,Home Appliances,Philips Air Fryer,13,136.47,1774.11,South America,Debit Card,New,Store,85.98,1117.74,656.37
+10113,2024-05-16,Electronics,Sony WH-1000XM5,15,357.02,5355.3,North America,PayPal,VIP,Online,253.74,3806.1,1549.2
+10114,2024-05-17,Home Appliances,Dyson V11 Vacuum,3,493.26,1479.78,Europe,PayPal,New,Online,280.24,840.72,639.06
+10115,2024-05-19,Beauty Products,The Ordinary Serum,10,24.6,246.0,Australia,Bank Transfer,Returning,Store,16.32,163.2,82.8
+10116,2024-05-20,Beauty Products,The Ordinary Serum,5,25.98,129.9,Asia,PayPal,VIP,Store,15.94,79.7,50.2
+10117,2024-05-21,Beauty Products,The Ordinary Serum,12,25.22,302.64,North America,PayPal,New,Online,18.32,219.84,82.8
+10118,2024-05-22,Electronics,Sony WH-1000XM5,3,363.09,1089.27,North America,Debit Card,Returning,Mobile App,227.47,682.41,406.86
+10119,2024-05-24,Clothing,Nike Air Max,7,149.63,1047.41,Asia,UPI,Returning,Mobile App,122.48,857.36,190.05
+10120,2024-05-25,Electronics,MacBook Air M2,12,1065.36,12784.32,Europe,Credit Card,Returning,Mobile App,747.65,8971.8,3812.52
+10121,2024-05-26,Books,Atomic Habits,8,19.86,158.88,Australia,Bank Transfer,New,Online,11.12,88.96,69.92
+10122,2024-05-27,Electronics,iPhone 14 Pro,4,956.54,3826.16,Europe,Debit Card,New,Online,643.64,2574.56,1251.6
+10123,2024-05-28,Beauty Products,Neutrogena Skincare Set,2,88.95,177.9,Australia,UPI,New,Online,50.38,100.76,77.14
+10124,2024-05-30,Home Appliances,Philips Air Fryer,6,128.91,773.46,Europe,Credit Card,VIP,Online,70.96,425.76,347.7
+10125,2024-05-31,Electronics,Samsung Galaxy S24,8,899.05,7192.4,Asia,Debit Card,Returning,Mobile App,575.33,4602.64,2589.76
+10126,2024-06-01,Clothing,Levi's 501 Jeans,4,68.75,275.0,Australia,Debit Card,Returning,Online,42.31,169.24,105.76
+10127,2024-06-02,Books,The Da Vinci Code,5,16.68,83.4,Asia,Debit Card,Returning,Online,9.39,46.95,36.45
+10128,2024-06-04,Clothing,Nike Air Max,1,144.56,144.56,North America,Credit Card,New,Online,115.37,115.37,29.19
+10129,2024-06-05,Electronics,Samsung Galaxy S24,2,910.8,1821.6,North America,Debit Card,Returning,Mobile App,560.36,1120.72,700.88
+10130,2024-06-06,Home Appliances,Philips Air Fryer,1,134.58,134.58,Asia,Credit Card,Returning,Mobile App,96.52,96.52,38.06
+10131,2024-06-07,Electronics,MacBook Air M2,4,1146.06,4584.24,Australia,UPI,VIP,Online,770.96,3083.84,1500.4
+10132,2024-06-08,Books,The Da Vinci Code,13,15.7,204.1,North America,UPI,New,Online,12.02,156.26,47.84
+10133,2024-06-10,Clothing,Nike Air Max,5,143.66,718.3,South America,PayPal,New,Online,80.17,400.85,317.45
+10134,2024-06-11,Clothing,Nike Air Max,11,153.11,1684.21,Australia,PayPal,VIP,Store,114.74,1262.14,422.07
+10135,2024-06-12,Electronics,Sony WH-1000XM5,2,337.52,675.04,North America,Credit Card,Returning,Mobile App,248.8,497.6,177.44
+10136,2024-06-13,Electronics,MacBook Air M2,1,1046.81,1046.81,Asia,Debit Card,New,Mobile App,856.43,856.43,190.38
+10137,2024-06-15,Electronics,Samsung Galaxy S24,14,903.25,12645.5,North America,PayPal,New,Store,648.43,9078.02,3567.48
+10138,2024-06-16,Electronics,Samsung Galaxy S24,5,914.72,4573.6,North America,Credit Card,Returning,Online,709.63,3548.15,1025.45
+10139,2024-06-17,Beauty Products,Neutrogena Skincare Set,14,87.77,1228.78,North America,Debit Card,New,Store,62.75,878.5,350.28
+10140,2024-06-18,Clothing,Levi's 501 Jeans,11,70.46,775.06,South America,Bank Transfer,New,Store,53.18,584.98,190.08
+10141,2024-06-19,Beauty Products,The Ordinary Serum,1,25.73,25.73,Asia,Debit Card,New,Mobile App,17.77,17.77,7.96
+10142,2024-06-21,Clothing,Nike Air Max,6,152.73,916.38,Europe,Bank Transfer,New,Online,90.16,540.96,375.42
+10143,2024-06-22,Beauty Products,The Ordinary Serum,13,26.02,338.26,Europe,Debit Card,Returning,Mobile App,15.8,205.4,132.86
+10144,2024-06-23,Clothing,Nike Air Max,6,150.25,901.5,South America,UPI,Returning,Store,112.73,676.38,225.12
+10145,2024-06-24,Home Appliances,Philips Air Fryer,2,135.24,270.48,Australia,UPI,New,Online,105.99,211.98,58.5
+10146,2024-06-26,Home Appliances,Philips Air Fryer,12,123.79,1485.48,Australia,PayPal,Returning,Mobile App,100.81,1209.72,275.76
+10147,2024-06-27,Clothing,Nike Air Max,6,147.28,883.68,Asia,Debit Card,New,Store,105.21,631.26,252.42
+10148,2024-06-28,Clothing,Levi's 501 Jeans,15,69.76,1046.4,Europe,PayPal,New,Online,42.07,631.05,415.35
+10149,2024-06-29,Electronics,MacBook Air M2,3,1120.29,3360.87,North America,Bank Transfer,New,Online,718.84,2156.52,1204.35
+10150,2024-06-30,Home Appliances,Philips Air Fryer,12,134.94,1619.28,Asia,PayPal,New,Store,84.35,1012.2,607.08
+10151,2024-07-02,Electronics,iPhone 14 Pro,8,975.93,7807.44,North America,Debit Card,VIP,Store,548.66,4389.28,3418.16
+10152,2024-07-03,Books,The Da Vinci Code,8,15.37,122.96,North America,PayPal,Returning,Mobile App,9.5,76.0,46.96
+10153,2024-07-04,Books,Atomic Habits,14,20.96,293.44,Europe,Bank Transfer,New,Online,17.09,239.26,54.18
+10154,2024-07-05,Beauty Products,The Ordinary Serum,5,25.12,125.6,Australia,Bank Transfer,Returning,Store,14.47,72.35,53.25
+10155,2024-07-06,Clothing,Levi's 501 Jeans,3,68.26,204.78,North America,Bank Transfer,Returning,Store,40.5,121.5,83.28
+10156,2024-07-08,Books,The Da Vinci Code,5,15.78,78.9,North America,UPI,Returning,Online,10.4,52.0,26.9
+10157,2024-07-09,Clothing,Nike Air Max,15,144.3,2164.5,South America,Credit Card,New,Mobile App,114.28,1714.2,450.3
+10158,2024-07-10,Clothing,Nike Air Max,3,148.69,446.07,North America,PayPal,Returning,Mobile App,99.84,299.52,146.55
+10159,2024-07-11,Clothing,Levi's 501 Jeans,14,68.87,964.18,South America,PayPal,New,Online,47.75,668.5,295.68
+10160,2024-07-13,Electronics,iPhone 14 Pro,15,1038.79,15581.85,Europe,Debit Card,Returning,Store,789.36,11840.4,3741.45
+10161,2024-07-14,Home Appliances,Dyson V11 Vacuum,9,496.72,4470.48,Europe,Credit Card,VIP,Online,290.87,2617.83,1852.65
+10162,2024-07-15,Beauty Products,Neutrogena Skincare Set,15,86.96,1304.4,Australia,PayPal,New,Online,60.85,912.75,391.65
+10163,2024-07-16,Home Appliances,Dyson V11 Vacuum,2,520.83,1041.66,Australia,UPI,Returning,Online,331.67,663.34,378.32
+10164,2024-07-17,Clothing,Levi's 501 Jeans,8,67.8,542.4,North America,Bank Transfer,Returning,Online,55.39,443.12,99.28
+10165,2024-07-19,Beauty Products,Neutrogena Skincare Set,3,93.78,281.34,Asia,Credit Card,New,Mobile App,60.22,180.66,100.68
+10166,2024-07-20,Clothing,Nike Air Max,10,153.75,1537.5,Australia,PayPal,VIP,Online,117.51,1175.1,362.4
+10167,2024-07-21,Electronics,MacBook Air M2,10,1045.24,10452.4,Europe,PayPal,New,Online,855.23,8552.3,1900.1
+10168,2024-07-22,Books,Atomic Habits,2,19.3,38.6,Asia,PayPal,VIP,Online,13.91,27.82,10.78
+10169,2024-07-24,Home Appliances,Dyson V11 Vacuum,11,498.05,5478.55,South America,Debit Card,Returning,Mobile App,362.67,3989.37,1489.18
+10170,2024-07-25,Clothing,Levi's 501 Jeans,6,67.73,406.38,Australia,Bank Transfer,New,Online,49.65,297.9,108.48
+10171,2024-07-26,Electronics,MacBook Air M2,14,1127.45,15784.3,Asia,Debit Card,Returning,Online,922.02,12908.28,2876.02
+10172,2024-07-27,Home Appliances,Dyson V11 Vacuum,15,493.31,7399.65,Europe,Debit Card,Returning,Store,369.69,5545.35,1854.3
+10173,2024-07-28,Clothing,Nike Air Max,8,156.1,1248.8,North America,UPI,New,Online,103.53,828.24,420.56
+10174,2024-07-30,Home Appliances,Philips Air Fryer,7,125.13,875.91,Europe,UPI,Returning,Store,71.92,503.44,372.47
+10175,2024-07-31,Electronics,MacBook Air M2,1,1080.91,1080.91,North America,UPI,VIP,Online,652.23,652.23,428.68
+10176,2024-08-01,Beauty Products,Neutrogena Skincare Set,11,86.65,953.15,South America,Credit Card,New,Store,54.09,594.99,358.16
+10177,2024-08-02,Beauty Products,Neutrogena Skincare Set,14,87.31,1222.34,Asia,UPI,VIP,Store,60.8,851.2,371.14
+10178,2024-08-04,Books,The Da Vinci Code,4,16.19,64.76,South America,Bank Transfer,New,Store,10.31,41.24,23.52
+10179,2024-08-05,Clothing,Levi's 501 Jeans,1,69.29,69.29,Australia,UPI,New,Mobile App,54.48,54.48,14.81
+10180,2024-08-06,Beauty Products,Neutrogena Skincare Set,13,88.39,1149.07,South America,Debit Card,Returning,Online,61.61,800.93,348.14
+10181,2024-08-07,Books,Atomic Habits,4,20.81,83.24,Europe,Bank Transfer,VIP,Store,16.64,66.56,16.68
+10182,2024-08-08,Beauty Products,The Ordinary Serum,12,25.65,307.8,South America,Debit Card,New,Store,17.44,209.28,98.52
+10183,2024-08-10,Clothing,Nike Air Max,5,146.36,731.8,Europe,Debit Card,New,Mobile App,103.65,518.25,213.55
+10184,2024-08-11,Electronics,MacBook Air M2,13,1063.44,13824.72,North America,PayPal,Returning,Mobile App,587.05,7631.65,6193.07
+10185,2024-08-12,Electronics,Sony WH-1000XM5,3,359.59,1078.77,North America,PayPal,VIP,Online,209.01,627.03,451.74
+10186,2024-08-13,Beauty Products,The Ordinary Serum,3,24.8,74.4,Australia,Bank Transfer,VIP,Online,17.79,53.37,21.03
+10187,2024-08-15,Beauty Products,The Ordinary Serum,3,25.72,77.16,Asia,Bank Transfer,Returning,Online,16.03,48.09,29.07
+10188,2024-08-16,Books,The Da Vinci Code,13,15.47,201.11,Asia,Debit Card,Returning,Store,10.28,133.64,67.47
+10189,2024-08-17,Books,Atomic Habits,10,20.97,209.7,North America,Debit Card,New,Store,17.19,171.9,37.8
+10190,2024-08-18,Electronics,Samsung Galaxy S24,15,883.64,13254.6,North America,Debit Card,New,Store,596.04,8940.6,4314.0
+10191,2024-08-19,Books,Atomic Habits,6,20.56,123.36,Australia,Bank Transfer,New,Online,15.93,95.58,27.78
+10192,2024-08-21,Electronics,Sony WH-1000XM5,12,360.54,4326.48,Europe,Bank Transfer,New,Mobile App,246.12,2953.44,1373.04
+10193,2024-08-22,Beauty Products,Neutrogena Skincare Set,2,86.87,173.74,Europe,Credit Card,New,Online,60.3,120.6,53.14
+10194,2024-08-23,Electronics,Samsung Galaxy S24,7,924.71,6472.97,Europe,UPI,Returning,Online,517.29,3621.03,2851.94
+10195,2024-08-24,Electronics,iPhone 14 Pro,3,1036.07,3108.21,Asia,Debit Card,Returning,Online,800.1,2400.3,707.91
+10196,2024-08-26,Home Appliances,Philips Air Fryer,6,133.08,798.48,Europe,UPI,Returning,Mobile App,82.44,494.64,303.84
+10197,2024-08-27,Books,The Da Vinci Code,7,15.78,110.46,South America,PayPal,Returning,Online,9.61,67.27,43.19
+10198,2024-08-28,Books,Atomic Habits,2,19.34,38.68,North America,Bank Transfer,New,Mobile App,11.55,23.1,15.58
+10199,2024-08-29,Beauty Products,Neutrogena Skincare Set,3,91.37,274.11,Australia,PayPal,VIP,Mobile App,61.32,183.96,90.15
+10200,2024-08-30,Beauty Products,The Ordinary Serum,14,24.22,339.08,Asia,UPI,New,Store,14.76,206.64,132.44
+10201,2024-09-01,Electronics,iPhone 14 Pro,9,1005.08,9045.72,Europe,UPI,New,Online,777.64,6998.76,2046.96
+10202,2024-09-02,Beauty Products,The Ordinary Serum,10,24.96,249.6,Europe,Debit Card,Returning,Mobile App,15.48,154.8,94.8
+10203,2024-09-03,Home Appliances,Dyson V11 Vacuum,9,494.26,4448.34,North America,Debit Card,New,Store,307.97,2771.73,1676.61
+10204,2024-09-04,Clothing,Nike Air Max,11,143.48,1578.28,North America,PayPal,VIP,Store,78.96,868.56,709.72
+10205,2024-09-06,Books,Atomic Habits,3,20.77,62.31,Australia,Debit Card,VIP,Online,14.06,42.18,20.13
+10206,2024-09-07,Home Appliances,Dyson V11 Vacuum,4,504.28,2017.12,Europe,UPI,New,Online,303.97,1215.88,801.24
+10207,2024-09-08,Home Appliances,Dyson V11 Vacuum,4,496.13,1984.52,North America,Credit Card,VIP,Online,296.47,1185.88,798.64
+10208,2024-09-09,Home Appliances,Dyson V11 Vacuum,6,477.75,2866.5,Europe,PayPal,Returning,Online,308.86,1853.16,1013.34
+10209,2024-09-10,Books,Atomic Habits,14,20.85,291.9,South America,Credit Card,New,Store,12.03,168.42,123.48
+10210,2024-09-12,Home Appliances,Dyson V11 Vacuum,2,517.61,1035.22,North America,Bank Transfer,Returning,Mobile App,390.1,780.2,255.02
+10211,2024-09-13,Home Appliances,Philips Air Fryer,1,128.71,128.71,Asia,Bank Transfer,Returning,Mobile App,82.05,82.05,46.66
+10212,2024-09-14,Beauty Products,The Ordinary Serum,3,26.19,78.57,Asia,Debit Card,VIP,Online,17.93,53.79,24.78
+10213,2024-09-15,Books,Atomic Habits,6,20.16,120.96,South America,PayPal,New,Online,11.79,70.74,50.22
+10214,2024-09-17,Books,Atomic Habits,13,20.17,262.21,South America,Debit Card,New,Store,13.05,169.65,92.56
+10215,2024-09-18,Home Appliances,Dyson V11 Vacuum,14,521.63,7302.82,South America,PayPal,Returning,Store,342.03,4788.42,2514.4
+10216,2024-09-19,Home Appliances,Dyson V11 Vacuum,7,507.93,3555.51,Europe,PayPal,New,Online,355.39,2487.73,1067.78
+10217,2024-09-20,Clothing,Levi's 501 Jeans,2,67.65,135.3,Australia,PayPal,New,Store,50.42,100.84,34.46
+10218,2024-09-21,Books,Atomic Habits,12,19.51,234.12,Australia,Bank Transfer,Returning,Store,15.09,181.08,53.04
+10219,2024-09-23,Beauty Products,The Ordinary Serum,1,26.1,26.1,North America,Bank Transfer,Returning,Online,17.12,17.12,8.98
+10220,2024-09-24,Clothing,Nike Air Max,1,152.7,152.7,North America,Credit Card,Returning,Mobile App,107.18,107.18,45.52
+10221,2024-09-25,Electronics,Sony WH-1000XM5,8,348.79,2790.32,Asia,UPI,New,Mobile App,192.35,1538.8,1251.52
+10222,2024-09-26,Beauty Products,The Ordinary Serum,6,25.15,150.9,South America,Credit Card,Returning,Online,15.67,94.02,56.88
+10223,2024-09-28,Electronics,Sony WH-1000XM5,9,366.28,3296.52,South America,Bank Transfer,New,Store,296.75,2670.75,625.77
+10224,2024-09-29,Beauty Products,The Ordinary Serum,14,24.68,345.52,Europe,Bank Transfer,Returning,Store,14.25,199.5,146.02
+10225,2024-09-30,Clothing,Nike Air Max,15,151.6,2274.0,Australia,PayPal,New,Online,100.78,1511.7,762.3
+10226,2024-10-01,Beauty Products,Neutrogena Skincare Set,12,93.03,1116.36,South America,PayPal,VIP,Online,58.31,699.72,416.64
+10227,2024-10-02,Beauty Products,The Ordinary Serum,8,24.9,199.2,Asia,Credit Card,Returning,Online,18.33,146.64,52.56
+10228,2024-10-04,Books,Atomic Habits,10,19.07,190.7,Australia,Debit Card,New,Online,12.87,128.7,62.0
+10229,2024-10-05,Clothing,Levi's 501 Jeans,3,68.9,206.7,Asia,Bank Transfer,New,Mobile App,39.7,119.1,87.6
+10230,2024-10-06,Home Appliances,Dyson V11 Vacuum,15,479.03,7185.45,Australia,Bank Transfer,Returning,Online,347.75,5216.25,1969.2
+10231,2024-10-07,Electronics,Samsung Galaxy S24,7,858.22,6007.54,Europe,Bank Transfer,VIP,Online,595.9,4171.3,1836.24
+10232,2024-10-08,Electronics,Sony WH-1000XM5,11,343.05,3773.55,Europe,Credit Card,VIP,Mobile App,272.32,2995.52,778.03
+10233,2024-10-10,Beauty Products,Neutrogena Skincare Set,2,86.03,172.06,Australia,Credit Card,Returning,Mobile App,66.71,133.42,38.64
+10234,2024-10-11,Beauty Products,Neutrogena Skincare Set,9,89.07,801.63,Australia,Credit Card,VIP,Online,59.69,537.21,264.42
+10235,2024-10-12,Books,Atomic Habits,3,19.56,58.68,North America,Credit Card,VIP,Store,15.85,47.55,11.13
+10236,2024-10-13,Clothing,Levi's 501 Jeans,13,73.32,953.16,Europe,Bank Transfer,New,Mobile App,57.0,741.0,212.16
+10237,2024-10-15,Electronics,MacBook Air M2,9,1104.77,9942.93,Europe,Bank Transfer,Returning,Online,875.76,7881.84,2061.09
+10238,2024-10-16,Home Appliances,Philips Air Fryer,7,128.51,899.57,North America,PayPal,New,Online,83.23,582.61,316.96
+10239,2024-10-17,Clothing,Levi's 501 Jeans,12,69.61,835.32,Australia,UPI,New,Online,55.78,669.36,165.96
+10240,2024-10-18,Beauty Products,Neutrogena Skincare Set,4,94.27,377.08,Europe,Debit Card,VIP,Mobile App,57.42,229.68,147.4
+10241,2024-10-19,Electronics,iPhone 14 Pro,4,954.9,3819.6,Australia,Credit Card,New,Store,564.8,2259.2,1560.4
+10242,2024-10-21,Home Appliances,Dyson V11 Vacuum,14,501.85,7025.9,South America,PayPal,Returning,Store,360.84,5051.76,1974.14
+10243,2024-10-22,Clothing,Nike Air Max,13,156.72,2037.36,North America,Credit Card,New,Online,100.92,1311.96,725.4
+10244,2024-10-23,Clothing,Nike Air Max,15,148.16,2222.4,North America,Debit Card,New,Online,112.32,1684.8,537.6
+10245,2024-10-24,Electronics,Sony WH-1000XM5,10,356.04,3560.4,Australia,PayPal,Returning,Online,237.62,2376.2,1184.2
+10246,2024-10-26,Books,The Da Vinci Code,15,15.49,232.35,Asia,Debit Card,Returning,Store,8.97,134.55,97.8
+10247,2024-10-27,Beauty Products,The Ordinary Serum,7,26.23,183.61,Asia,Debit Card,New,Online,17.87,125.09,58.52
+10248,2024-10-28,Books,The Da Vinci Code,9,15.56,140.04,South America,Credit Card,VIP,Online,11.24,101.16,38.88
+10249,2024-10-29,Home Appliances,Philips Air Fryer,14,129.67,1815.38,Australia,Bank Transfer,Returning,Mobile App,73.43,1028.02,787.36
+10250,2024-10-30,Beauty Products,Neutrogena Skincare Set,7,91.23,638.61,South America,UPI,New,Store,71.27,498.89,139.72
+10251,2024-11-01,Books,Atomic Habits,11,20.91,230.01,Asia,Debit Card,Returning,Store,13.59,149.49,80.52
+10252,2024-11-02,Electronics,iPhone 14 Pro,12,995.96,11951.52,Asia,UPI,New,Online,605.73,7268.76,4682.76
+10253,2024-11-03,Home Appliances,Dyson V11 Vacuum,10,512.35,5123.5,South America,PayPal,New,Mobile App,405.56,4055.6,1067.9
+10254,2024-11-04,Books,Atomic Habits,3,19.39,58.17,Europe,Debit Card,VIP,Mobile App,12.19,36.57,21.6
+10255,2024-11-06,Electronics,Sony WH-1000XM5,11,338.62,3724.82,South America,Debit Card,New,Online,218.94,2408.34,1316.48
+10256,2024-11-07,Electronics,Sony WH-1000XM5,5,336.95,1684.75,Australia,UPI,New,Online,235.38,1176.9,507.85
+10257,2024-11-08,Electronics,Sony WH-1000XM5,12,358.67,4304.04,Europe,Debit Card,Returning,Online,276.2,3314.4,989.64
+10258,2024-11-09,Home Appliances,Dyson V11 Vacuum,6,483.81,2902.86,Europe,PayPal,New,Mobile App,327.16,1962.96,939.9
+10259,2024-11-10,Electronics,Sony WH-1000XM5,5,342.04,1710.2,North America,Debit Card,New,Online,200.21,1001.05,709.15
+10260,2024-11-12,Beauty Products,Neutrogena Skincare Set,4,92.36,369.44,Europe,Debit Card,Returning,Mobile App,73.99,295.96,73.48
+10261,2024-11-13,Clothing,Nike Air Max,15,151.69,2275.35,Australia,Bank Transfer,Returning,Online,119.87,1798.05,477.3
+10262,2024-11-14,Books,Atomic Habits,2,19.02,38.04,Asia,Debit Card,New,Store,12.91,25.82,12.22
+10263,2024-11-15,Books,Atomic Habits,9,20.66,185.94,South America,PayPal,Returning,Mobile App,11.97,107.73,78.21
+10264,2024-11-17,Books,Atomic Habits,15,20.74,311.1,North America,PayPal,New,Online,16.39,245.85,65.25
+10265,2024-11-18,Books,Atomic Habits,10,20.87,208.7,Australia,Debit Card,New,Online,13.42,134.2,74.5
+10266,2024-11-19,Electronics,Sony WH-1000XM5,3,334.52,1003.56,South America,Debit Card,Returning,Store,269.73,809.19,194.37
+10267,2024-11-20,Books,The Da Vinci Code,3,15.47,46.41,Australia,PayPal,VIP,Online,11.9,35.7,10.71
+10268,2024-11-21,Electronics,MacBook Air M2,11,1134.58,12480.38,Australia,PayPal,VIP,Online,696.09,7656.99,4823.39
+10269,2024-11-23,Electronics,iPhone 14 Pro,7,993.24,6952.68,South America,UPI,Returning,Online,614.14,4298.98,2653.7
+10270,2024-11-24,Books,The Da Vinci Code,13,15.53,201.89,Asia,Debit Card,VIP,Online,8.56,111.28,90.61
+10271,2024-11-25,Electronics,Sony WH-1000XM5,4,350.65,1402.6,South America,Credit Card,New,Store,269.54,1078.16,324.44
+10272,2024-11-26,Electronics,Samsung Galaxy S24,6,871.99,5231.94,Asia,Debit Card,Returning,Mobile App,525.62,3153.72,2078.22
+10273,2024-11-28,Clothing,Levi's 501 Jeans,10,71.32,713.2,North America,Debit Card,New,Mobile App,58.15,581.5,131.7
+10274,2024-11-29,Electronics,iPhone 14 Pro,4,1022.97,4091.88,Australia,Credit Card,Returning,Online,771.05,3084.2,1007.68
+10275,2024-11-30,Electronics,Sony WH-1000XM5,3,348.72,1046.16,North America,UPI,VIP,Mobile App,219.05,657.15,389.01
+10276,2024-12-01,Clothing,Nike Air Max,4,146.6,586.4,Europe,Credit Card,VIP,Online,90.71,362.84,223.56
+10277,2024-12-02,Beauty Products,The Ordinary Serum,4,25.86,103.44,Europe,Credit Card,New,Store,17.01,68.04,35.4
+10278,2024-12-04,Home Appliances,Philips Air Fryer,12,126.23,1514.76,South America,Bank Transfer,Returning,Online,100.69,1208.28,306.48
+10279,2024-12-05,Clothing,Levi's 501 Jeans,1,72.56,72.56,North America,UPI,Returning,Online,45.9,45.9,26.66
+10280,2024-12-06,Electronics,Samsung Galaxy S24,12,939.46,11273.52,Australia,Debit Card,VIP,Store,701.46,8417.52,2856.0
+10281,2024-12-07,Beauty Products,The Ordinary Serum,12,25.79,309.48,South America,PayPal,New,Online,19.4,232.8,76.68
+10282,2024-12-09,Electronics,MacBook Air M2,8,1100.57,8804.56,Australia,PayPal,Returning,Mobile App,778.45,6227.6,2576.96
+10283,2024-12-10,Books,Atomic Habits,4,20.46,81.84,Europe,Debit Card,New,Mobile App,15.0,60.0,21.84
+10284,2024-12-11,Home Appliances,Philips Air Fryer,15,132.87,1993.05,North America,Bank Transfer,New,Store,106.01,1590.15,402.9
+10285,2024-12-12,Clothing,Nike Air Max,8,157.29,1258.32,Asia,Debit Card,VIP,Online,90.49,723.92,534.4
+10286,2024-12-13,Clothing,Levi's 501 Jeans,12,69.17,830.04,Asia,Bank Transfer,New,Mobile App,56.35,676.2,153.84
+10287,2024-12-15,Electronics,Sony WH-1000XM5,6,353.71,2122.26,Australia,Bank Transfer,New,Online,257.43,1544.58,577.68
+10288,2024-12-16,Beauty Products,The Ordinary Serum,11,25.15,276.65,Asia,Credit Card,New,Mobile App,17.2,189.2,87.45
+10289,2024-12-17,Books,Atomic Habits,1,19.78,19.78,Australia,Credit Card,Returning,Online,15.93,15.93,3.85
+10290,2024-12-18,Clothing,Levi's 501 Jeans,13,71.71,932.23,Europe,PayPal,Returning,Mobile App,56.59,735.67,196.56
+10291,2024-12-20,Books,Atomic Habits,4,19.45,77.8,Europe,Bank Transfer,Returning,Store,10.84,43.36,34.44
+10292,2024-12-21,Home Appliances,Dyson V11 Vacuum,12,501.57,6018.84,North America,Debit Card,Returning,Online,340.34,4084.08,1934.76
+10293,2024-12-22,Electronics,iPhone 14 Pro,14,1031.16,14436.24,Australia,Debit Card,New,Mobile App,664.46,9302.44,5133.8
+10294,2024-12-23,Electronics,Sony WH-1000XM5,14,364.76,5106.64,Australia,Credit Card,New,Online,233.33,3266.62,1840.02
+10295,2024-12-24,Electronics,Sony WH-1000XM5,2,334.99,669.98,North America,Credit Card,New,Mobile App,273.77,547.54,122.44
+10296,2024-12-26,Books,The Da Vinci Code,9,16.43,147.87,Asia,Bank Transfer,Returning,Store,11.84,106.56,41.31
+10297,2024-12-27,Beauty Products,The Ordinary Serum,11,24.86,273.46,North America,Debit Card,New,Mobile App,16.0,176.0,97.46
+10298,2024-12-28,Books,Atomic Habits,4,19.3,77.2,South America,Bank Transfer,New,Store,11.9,47.6,29.6
+10299,2024-12-29,Clothing,Nike Air Max,13,143.66,1867.58,Europe,PayPal,New,Store,108.69,1412.97,454.61
+10300,2024-12-31,Clothing,Nike Air Max,14,146.92,2056.88,Europe,PayPal,Returning,Store,103.37,1447.18,609.7
