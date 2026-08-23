@@ -205,6 +205,7 @@ Common ways to visualize or understand distributions:
 -   PDF
 -   PMF
 
+
 #### D. Summary Statistics
 
 A **five-number summary** commonly includes:
