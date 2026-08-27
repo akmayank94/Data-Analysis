@@ -1,4 +1,4 @@
-# 📊 Statistics --- Complete Notes
+# 📊 Statistics --- Ongoing Notes
 
 > **A clean, practical reference based on the Statistics notes covered
 > in class.**
@@ -204,6 +204,7 @@ Common ways to visualize or understand distributions:
 -   Pie chart
 -   PDF
 -   PMF
+
 
 #### D. Summary Statistics
 
