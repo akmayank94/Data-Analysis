@@ -1,4 +1,4 @@
-# 📊 Statistics --- Ongoing Notes
+# 📊 Statistics --- Notes
 
 > **A clean, practical reference based on the Statistics notes covered
 > in class.**
