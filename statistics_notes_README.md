@@ -55,7 +55,7 @@ Make Decisions
 Suppose we collect the heights of students in a class:
 
 ``` text
-175 cm, 180 cm, 140 cm, 135 cm, 160 cm, 120 cm, ...
+175 cm, 180 cm, 140 cm, 135 cm, 160 cm, 120 cm, 88cm, ...
 ```
 
 Statistics can help us find:
