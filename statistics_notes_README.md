@@ -438,7 +438,7 @@ These terms are connected to population and sample.
 
 ## Parameter
 
-A **parameter** is a numerical value that summarizes a population.
+A **parameter** is a numerical value that summarizes a populations.
 
 Examples:
 
