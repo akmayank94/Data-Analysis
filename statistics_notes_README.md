@@ -438,11 +438,11 @@ These terms are connected to population and sample.
 
 ## Parameter
 
-A **parameter** is a numerical value that summarizes a populations.
+A **parameter** is a numerical value that summarizes a population. 
 
 Examples:
 
--   Population mean: **μ**
+-   Population mean: **μ** 
 -   Population variance: **σ²**
 
 ``` text
@@ -510,7 +510,7 @@ selected.**
 
 ### Example
 
-Suppose you have a list of 1,000 students.
+Suppose we have a list of 1,000 students.
 
 You randomly select 100 names.
 
